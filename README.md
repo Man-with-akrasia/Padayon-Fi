@@ -1,4 +1,4 @@
-# Padayon-Fi Documentation
+# Padayon-Fi
 
 **Padayon-Fi** is a smart WiFi vendo system with dynamic advertising and centralized management.  
 Designed for the Philippine market, it supports coins, GCash, and Maya payments while offering e-wallet services, mobile load, bills payment, gaming credits, and a loyalty program.
