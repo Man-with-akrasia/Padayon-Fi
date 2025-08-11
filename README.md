@@ -1,4 +1,4 @@
-# Padayon-Fi
+# Padayon-Fi Documentation
 
 **Padayon-Fi** is a smart WiFi vendo system with dynamic advertising and centralized management.  
 Designed for the Philippine market, it supports coins, GCash, and Maya payments while offering e-wallet services, mobile load, bills payment, gaming credits, and a loyalty program.
@@ -6,8 +6,11 @@ Designed for the Philippine market, it supports coins, GCash, and Maya payments 
 ---
 
 ## 📂 Documentation
-- [**Context**](docs/context/padayon_fi_context.md) — Background, target users, and competitive advantages  
-- [**SRS**](docs/srs/padayon_fi_srs.md) — Full Software Requirements Specification  
+All technical documentation is organized under the `Documentation` folder.
+
+- 📄 [**Documentation Home**](docs/index.md) — Entry point to all project documents  
+- 📜 [Context](docs/context/padayon_fi_context.md) — Background, target users, and competitive advantages  
+- 📜 [Software Requirements Specification (SRS)](docs/srs/padayon_fi_srs.md) — Complete functional and non-functional requirements
 
 ---
 
@@ -20,4 +23,7 @@ Designed for the Philippine market, it supports coins, GCash, and Maya payments 
 
 ---
 
+## 🚀 Project Vision
+Padayon-Fi aims to modernize the traditional WiFi vendo model into a multi-service digital kiosk, delivering connectivity and value-added services while enabling remote, centralized control for business operators.
 
+---
