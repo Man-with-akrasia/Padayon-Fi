@@ -44,3 +44,5 @@ Current WiFi vendo solutions are typically limited to coin-only payments, lack m
 - Scalable backend for multi-location expansion
 
 Padayon-Fi is purpose-built for the Philippine market, ensuring compatibility with local payment behaviors, infrastructure, and consumer needs while delivering a scalable and profitable business model.
+
+[← Back to Documentation Home](../index.md) | [Go to SRS →](../srs/padayon_fi_srs.md)
