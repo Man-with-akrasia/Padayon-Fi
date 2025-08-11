@@ -6,8 +6,8 @@ Designed for the Philippine market, it supports coins, GCash, and Maya payments 
 ---
 
 ## 📂 Documentation
-- [**Context**](Documentation/context/padayon_fi_context.md) — Background, target users, and competitive advantages  
-- [**SRS**](Documentation/srs/padayon_fi_srs.md) — Full Software Requirements Specification  
+- [**Context**](docs/context/padayon_fi_context.md) — Background, target users, and competitive advantages  
+- [**SRS**](docs/srs/padayon_fi_srs.md) — Full Software Requirements Specification  
 
 ---
 
